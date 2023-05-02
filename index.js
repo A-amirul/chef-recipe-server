@@ -5,12 +5,17 @@ const port = process.env.PORT || 3000;
 
 
 app.use(cors());
+const chefs = require('./data/chefs.json');
 
 app.get('/', (req, res) => {
-	res.send("Shef recipe is running")
+	res.send("chef recipe is running")
 });
 
+app.get('/chefs', (req, res) => {
+	res.send(chefs);
+})
+
 app.listen(port, () => {
-	console.log(`Shef Corner is running on port:${port}`);
+	console.log(`chefCorner is running on port:${port}`);
 })
 

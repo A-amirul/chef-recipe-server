@@ -1,0 +1,300 @@
+{
+	"chefs": [
+		{
+			"id": 1,
+			"name": "John Smith",
+			"picture": "https://example.com/chef1.jpg",
+			"experience_years": 10,
+			"num_recipes": 5,
+			"likes": 100,
+			"recipes": [
+				{
+					"name": "Spaghetti Bolognese",
+					"ingredients": [
+						"spaghetti",
+						"ground beef",
+						"canned tomatoes",
+						"onion",
+						"garlic"
+					],
+					"cooking_method": "1. Cook spaghetti according to package directions. 2. Brown ground beef in a skillet. 3. Add chopped onion and garlic and cook until softened. 4. Add canned tomatoes and cook for 10 minutes. 5. Serve sauce over spaghetti.",
+					"rating": 4.5,
+					"favorite": false
+				},
+				{
+					"name": "Roast Chicken",
+					"ingredients": [
+						"whole chicken",
+						"butter",
+						"garlic",
+						"lemon",
+						"thyme"
+					],
+					"cooking_method": "1. Preheat oven to 400F. 2. Rinse chicken and pat dry. 3. Rub butter under the skin and all over the chicken. 4. Stuff the chicken with garlic, lemon, and thyme. 5. Roast for 1 hour or until fully cooked. 6. Let rest for 10 minutes before carving.",
+					"rating": 3.8,
+					"favorite": true
+				},
+				{
+					"name": "Beef Stir Fry",
+					"ingredients": [
+						"beef strips",
+						"bell pepper",
+						"onion",
+						"soy sauce",
+						"rice"
+					],
+					"cooking_method": "1. Cook rice according to package directions. 2. Brown beef strips in a skillet. 3. Add sliced bell pepper and onion and cook until softened. 4. Add soy sauce and cook for 5 minutes. 5. Serve over rice.",
+					"rating": 4.2,
+					"favorite": false
+				}
+			]
+		},
+		{
+			"id": 2,
+			"name": "John Macculum",
+			"picture": "https://example.com/chef1.jpg",
+			"experience_years": 10,
+			"num_recipes": 5,
+			"likes": 100,
+			"recipes": [
+				{
+					"name": "Spaghetti Bolognese",
+					"ingredients": [
+						"spaghetti",
+						"ground beef",
+						"canned tomatoes",
+						"onion",
+						"garlic"
+					],
+					"cooking_method": "1. Cook spaghetti according to package directions. 2. Brown ground beef in a skillet. 3. Add chopped onion and garlic and cook until softened. 4. Add canned tomatoes and cook for 10 minutes. 5. Serve sauce over spaghetti.",
+					"rating": 4.5,
+					"favorite": false
+				},
+				{
+					"name": "Roast Chicken",
+					"ingredients": [
+						"whole chicken",
+						"butter",
+						"garlic",
+						"lemon",
+						"thyme"
+					],
+					"cooking_method": "1. Preheat oven to 400F. 2. Rinse chicken and pat dry. 3. Rub butter under the skin and all over the chicken. 4. Stuff the chicken with garlic, lemon, and thyme. 5. Roast for 1 hour or until fully cooked. 6. Let rest for 10 minutes before carving.",
+					"rating": 4.8,
+					"favorite": true
+				},
+				{
+					"name": "Beef Stir Fry",
+					"ingredients": [
+						"beef strips",
+						"bell pepper",
+						"onion",
+						"soy sauce",
+						"rice"
+					],
+					"cooking_method": "1. Cook rice according to package directions. 2. Brown beef strips in a skillet. 3. Add sliced bell pepper and onion and cook until softened. 4. Add soy sauce and cook for 5 minutes. 5. Serve over rice.",
+					"rating": 4.2,
+					"favorite": false
+				}
+			]
+		},
+		{
+			"id": 3,
+			"name": "Rony Jacs",
+			"picture": "https://example.com/chef1.jpg",
+			"experience_years": 10,
+			"num_recipes": 5,
+			"likes": 100,
+			"recipes": [
+				{
+					"name": "Spaghetti Bolognese",
+					"ingredients": [
+						"spaghetti",
+						"ground beef",
+						"canned tomatoes",
+						"onion",
+						"garlic"
+					],
+					"cooking_method": "1. Cook spaghetti according to package directions. 2. Brown ground beef in a skillet. 3. Add chopped onion and garlic and cook until softened. 4. Add canned tomatoes and cook for 10 minutes. 5. Serve sauce over spaghetti.",
+					"rating": 4.5,
+					"favorite": false
+				},
+				{
+					"name": "Roast Chicken",
+					"ingredients": [
+						"whole chicken",
+						"butter",
+						"garlic",
+						"lemon",
+						"thyme"
+					],
+					"cooking_method": "1. Preheat oven to 400F. 2. Rinse chicken and pat dry. 3. Rub butter under the skin and all over the chicken. 4. Stuff the chicken with garlic, lemon, and thyme. 5. Roast for 1 hour or until fully cooked. 6. Let rest for 10 minutes before carving.",
+					"rating": 4.8,
+					"favorite": true
+				},
+				{
+					"name": "Beef Stir Fry",
+					"ingredients": [
+						"beef strips",
+						"bell pepper",
+						"onion",
+						"soy sauce",
+						"rice"
+					],
+					"cooking_method": "1. Cook rice according to package directions. 2. Brown beef strips in a skillet. 3. Add sliced bell pepper and onion and cook until softened. 4. Add soy sauce and cook for 5 minutes. 5. Serve over rice.",
+					"rating": 4.2,
+					"favorite": false
+				}
+			]
+		},
+		{
+			"id": 4,
+			"name": "Jony Rods",
+			"picture": "https://example.com/chef1.jpg",
+			"experience_years": 10,
+			"num_recipes": 5,
+			"likes": 100,
+			"recipes": [
+				{
+					"name": "Spaghetti Bolognese",
+					"ingredients": [
+						"spaghetti",
+						"ground beef",
+						"canned tomatoes",
+						"onion",
+						"garlic"
+					],
+					"cooking_method": "1. Cook spaghetti according to package directions. 2. Brown ground beef in a skillet. 3. Add chopped onion and garlic and cook until softened. 4. Add canned tomatoes and cook for 10 minutes. 5. Serve sauce over spaghetti.",
+					"rating": 4.5,
+					"favorite": false
+				},
+				{
+					"name": "Roast Chicken",
+					"ingredients": [
+						"whole chicken",
+						"butter",
+						"garlic",
+						"lemon",
+						"thyme"
+					],
+					"cooking_method": "1. Preheat oven to 400F. 2. Rinse chicken and pat dry. 3. Rub butter under the skin and all over the chicken. 4. Stuff the chicken with garlic, lemon, and thyme. 5. Roast for 1 hour or until fully cooked. 6. Let rest for 10 minutes before carving.",
+					"rating": 4.8,
+					"favorite": true
+				},
+				{
+					"name": "Beef Stir Fry",
+					"ingredients": [
+						"beef strips",
+						"bell pepper",
+						"onion",
+						"soy sauce",
+						"rice"
+					],
+					"cooking_method": "1. Cook rice according to package directions. 2. Brown beef strips in a skillet. 3. Add sliced bell pepper and onion and cook until softened. 4. Add soy sauce and cook for 5 minutes. 5. Serve over rice.",
+					"rating": 4.2,
+					"favorite": false
+				}
+			]
+		},
+		{
+			"id": 5,
+			"name": "Joe Byden",
+			"picture": "https://example.com/chef1.jpg",
+			"experience_years": 10,
+			"num_recipes": 5,
+			"likes": 100,
+			"recipes": [
+				{
+					"name": "Spaghetti Bolognese",
+					"ingredients": [
+						"spaghetti",
+						"ground beef",
+						"canned tomatoes",
+						"onion",
+						"garlic"
+					],
+					"cooking_method": "1. Cook spaghetti according to package directions. 2. Brown ground beef in a skillet. 3. Add chopped onion and garlic and cook until softened. 4. Add canned tomatoes and cook for 10 minutes. 5. Serve sauce over spaghetti.",
+					"rating": 4.5,
+					"favorite": false
+				},
+				{
+					"name": "Roast Chicken",
+					"ingredients": [
+						"whole chicken",
+						"butter",
+						"garlic",
+						"lemon",
+						"thyme"
+					],
+					"cooking_method": "1. Preheat oven to 400F. 2. Rinse chicken and pat dry. 3. Rub butter under the skin and all over the chicken. 4. Stuff the chicken with garlic, lemon, and thyme. 5. Roast for 1 hour or until fully cooked. 6. Let rest for 10 minutes before carving.",
+					"rating": 4.8,
+					"favorite": true
+				},
+				{
+					"name": "Beef Stir Fry",
+					"ingredients": [
+						"beef strips",
+						"bell pepper",
+						"onion",
+						"soy sauce",
+						"rice"
+					],
+					"cooking_method": "1. Cook rice according to package directions. 2. Brown beef strips in a skillet. 3. Add sliced bell pepper and onion and cook until softened. 4. Add soy sauce and cook for 5 minutes. 5. Serve over rice.",
+					"rating": 4.2,
+					"favorite": false
+				}
+			]
+		},
+		{
+			"id": 6,
+			"name": "Steve Jon",
+			"picture": "https://example.com/chef1.jpg",
+			"experience_years": 10,
+			"num_recipes": 5,
+			"likes": 100,
+			"recipes": [
+				{
+					"name": "Spaghetti Bolognese",
+					"ingredients": [
+						"spaghetti",
+						"ground beef",
+						"canned tomatoes",
+						"onion",
+						"garlic"
+					],
+					"cooking_method": "1. Cook spaghetti according to package directions. 2. Brown ground beef in a skillet. 3. Add chopped onion and garlic and cook until softened. 4. Add canned tomatoes and cook for 10 minutes. 5. Serve sauce over spaghetti.",
+					"rating": 4.5,
+					"favorite": false
+				},
+				{
+					"name": "Roast Chicken",
+					"ingredients": [
+						"whole chicken",
+						"butter",
+						"garlic",
+						"lemon",
+						"thyme"
+					],
+					"cooking_method": "1. Preheat oven to 400F. 2. Rinse chicken and pat dry. 3. Rub butter under the skin and all over the chicken. 4. Stuff the chicken with garlic, lemon, and thyme. 5. Roast for 1 hour or until fully cooked. 6. Let rest for 10 minutes before carving.",
+					"rating": 4.8,
+					"favorite": true
+				},
+				{
+					"name": "Beef Stir Fry",
+					"ingredients": [
+						"beef strips",
+						"bell pepper",
+						"onion",
+						"soy sauce",
+						"rice"
+					],
+					"cooking_method": "1. Cook rice according to package directions. 2. Brown beef strips in a skillet. 3. Add sliced bell pepper and onion and cook until softened. 4. Add soy sauce and cook for 5 minutes. 5. Serve over rice.",
+					"rating": 4.2,
+					"favorite": false
+				}
+			]
+		}
+	]
+
+	}
+		
