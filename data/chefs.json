@@ -1,8 +1,9 @@
 [
 	{
 		"id": 1,
-		"name": "John Smith",
-		"picture": "https://example.com/chef1.jpg",
+		"name": "Jane Smith",
+		"bio": "Jane Smith is a renowned executive chef with over 10 years of experience in the culinary industry.",
+		"picture": "https://i.ibb.co/yY8DjMW/chef1.jpg",
 		"experience_years": 10,
 		"num_recipes": 5,
 		"likes": 100,
@@ -50,9 +51,10 @@
 	},
 	{
 		"id": 2,
-		"name": "John Macculum",
-		"picture": "https://example.com/chef1.jpg",
-		"experience_years": 13,
+		"name": "Juan Rodriguez",
+		"bio": "Juan Rodriguez is a skilled head chef and he has worked in some of the finest restaurants in Los Angeles. ",
+		"picture": "https://i.ibb.co/Db4xRwz/chef2.jpg",
+		"experience_years": 3,
 		"num_recipes": 7,
 		"likes": 120,
 		"recipes": [
@@ -105,8 +107,9 @@
 	{
 		"id": 3,
 		"name": "Rony Jacs",
-		"picture": "https://example.com/chef1.jpg",
-		"experience_years": 20,
+		"bio": "Rony Jacs is an accomplished executive chef and he has worked in some of the most prestigious kitchens.",
+		"picture": "https://i.ibb.co/kBnGf13/chef3.jpg",
+		"experience_years": 6,
 		"num_recipes": 5,
 		"likes": 150,
 		"recipes": [
@@ -153,9 +156,10 @@
 	},
 	{
 		"id": 4,
-		"name": "Jony Rods",
-		"picture": "https://example.com/chef1.jpg",
-		"experience_years": 15,
+		"name": "Carlos Perez",
+		"bio": "Carlos Perez is a talented sous chef and he works closely with the head chef to develop and execute a menu.",
+		"picture": "https://i.ibb.co/Lk3cVqG/chef4.jpg",
+		"experience_years": 5,
 		"num_recipes": 7,
 		"likes": 60,
 		"recipes": [
@@ -203,8 +207,9 @@
 	{
 		"id": 5,
 		"name": "Joe Byden",
-		"picture": "https://example.com/chef1.jpg",
-		"experience_years": 13,
+		"bio": "Joe Byden is a gifted pastry chef with a passion for creating delicious and beautiful desserts. ",
+		"picture": "https://i.ibb.co/7JYMDXm/chef6.jpg",
+		"experience_years": 3,
 		"num_recipes": 8,
 		"likes": 70,
 		"recipes": [
@@ -251,9 +256,10 @@
 	},
 	{
 		"id": 6,
-		"name": "Steve Jon",
-		"picture": "https://example.com/chef1.jpg",
-		"experience_years": 18,
+		"name": "Ravi Patel",
+		"bio": "Ravi Patel is a specialist chef with a passion for creating authentic and flavorful dishes.",
+		"picture": "https://i.ibb.co/wsR8n6c/chef5.jpg",
+		"experience_years": 8,
 		"num_recipes": 9,
 		"likes": 90,
 		"recipes": [
