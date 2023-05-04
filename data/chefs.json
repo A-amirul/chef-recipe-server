@@ -17,7 +17,7 @@
 					"onion",
 					"garlic"
 				],
-				"cooking_method": "1. Cook spaghetti according to package directions. 2. Brown ground beef in a skillet. 3. Add chopped onion and garlic and cook until softened. 4. Add canned tomatoes and cook for 10 minutes. 5. Serve sauce over spaghetti.",
+				"method": "1. Cook spaghetti according to package directions. 2. Brown ground beef in a skillet. 3. Add chopped onion and garlic and cook until softened. 4. Add canned tomatoes and cook for 10 minutes. 5. Serve sauce over spaghetti.",
 				"rating": 4.5,
 				"favorite": false
 			},
@@ -30,7 +30,7 @@
 					"lemon",
 					"thyme"
 				],
-				"cooking_method": "1. Preheat oven to 400F. 2. Rinse chicken and pat dry. 3. Rub butter under the skin and all over the chicken. 4. Stuff the chicken with garlic, lemon, and thyme. 5. Roast for 1 hour or until fully cooked. 6. Let rest for 10 minutes before carving.",
+				"method": "1. Preheat oven to 400F. 2. Rinse chicken and pat dry. 3. Rub butter under the skin and all over the chicken. 4. Stuff the chicken with garlic, lemon, and thyme. 5. Roast for 1 hour or until fully cooked. 6. Let rest for 10 minutes before carving.",
 				"rating": 4,
 				"favorite": true
 			},
@@ -43,7 +43,7 @@
 					"soy sauce",
 					"rice"
 				],
-				"cooking_method": "1. Cook rice according to package directions. 2. Brown beef strips in a skillet. 3. Add sliced bell pepper and onion and cook until softened. 4. Add soy sauce and cook for 5 minutes. 5. Serve over rice.",
+				"method": "1. Cook rice according to package directions. 2. Brown beef strips in a skillet. 3. Add sliced bell pepper and onion and cook until softened. 4. Add soy sauce and cook for 5 minutes. 5. Serve over rice.",
 				"rating": 4.2,
 				"favorite": false
 			}
@@ -187,7 +187,7 @@
 					"lemon",
 					"thyme"
 				],
-				"cooking_method": "1. Preheat oven to 400F. 2. Rinse chicken and pat dry. 3. Rub butter under the skin and all over the chicken. 4. Stuff the chicken with garlic, lemon, and thyme. 5. Roast for 1 hour or until fully cooked. 6. Let rest for 10 minutes before carving.",
+				"method": "1. Preheat oven to 400F. 2. Rinse chicken and pat dry. 3. Rub butter under the skin and all over the chicken. 4. Stuff the chicken with garlic, lemon, and thyme. 5. Roast for 1 hour or until fully cooked. 6. Let rest for 10 minutes before carving.",
 				"rating": 4.8,
 				"favorite": true
 			},
@@ -200,7 +200,7 @@
 					"soy sauce",
 					"rice"
 				],
-				"cooking_method": "1. Cook rice according to package directions. 2. Brown beef strips in a skillet. 3. Add sliced bell pepper and onion and cook until softened. 4. Add soy sauce and cook for 5 minutes. 5. Serve over rice.",
+				"method": "1. Cook rice according to package directions. 2. Brown beef strips in a skillet. 3. Add sliced bell pepper and onion and cook until softened. 4. Add soy sauce and cook for 5 minutes. 5. Serve over rice.",
 				"rating": 4.2,
 				"favorite": false
 			}
@@ -259,7 +259,7 @@
 					"onion",
 					"garlic"
 				],
-				"cooking_method": "1. Cook spaghetti according to package directions. 2. Brown ground beef in a skillet. 3. Add chopped onion and garlic and cook until softened. 4. Add canned tomatoes and cook for 10 minutes. 5. Serve sauce over spaghetti.",
+				"method": "1. Cook spaghetti according to package directions. 2. Brown ground beef in a skillet. 3. Add chopped onion and garlic and cook until softened. 4. Add canned tomatoes and cook for 10 minutes. 5. Serve sauce over spaghetti.",
 				"rating": 4.5,
 				"favorite": false
 			},
@@ -272,7 +272,7 @@
 					"lemon",
 					"thyme"
 				],
-				"cooking_method": "1. Preheat oven to 400F. 2. Rinse chicken and pat dry. 3. Rub butter under the skin and all over the chicken. 4. Stuff the chicken with garlic, lemon, and thyme. 5. Roast for 1 hour or until fully cooked. 6. Let rest for 10 minutes before carving.",
+				"method": "1. Preheat oven to 400F. 2. Rinse chicken and pat dry. 3. Rub butter under the skin and all over the chicken. 4. Stuff the chicken with garlic, lemon, and thyme. 5. Roast for 1 hour or until fully cooked. 6. Let rest for 10 minutes before carving.",
 				"rating": 4.8,
 				"favorite": true
 			},
@@ -285,7 +285,7 @@
 					"soy sauce",
 					"rice"
 				],
-				"cooking_method": "1. Cook rice according to package directions. 2. Brown beef strips in a skillet. 3. Add sliced bell pepper and onion and cook until softened. 4. Add soy sauce and cook for 5 minutes. 5. Serve over rice.",
+				"method": "1. Cook rice according to package directions. 2. Brown beef strips in a skillet. 3. Add sliced bell pepper and onion and cook until softened. 4. Add soy sauce and cook for 5 minutes. 5. Serve over rice.",
 				"rating": 4.2,
 				"favorite": false
 			}
@@ -363,7 +363,7 @@
 					"onion",
 					"garlic"
 				],
-				"cooking_method": "1. Cook spaghetti according to package directions. 2. Brown ground beef in a skillet. 3. Add chopped onion and garlic and cook until softened. 4. Add canned tomatoes and cook for 10 minutes. 5. Serve sauce over spaghetti.",
+				"method": "1. Cook spaghetti according to package directions. 2. Brown ground beef in a skillet. 3. Add chopped onion and garlic and cook until softened. 4. Add canned tomatoes and cook for 10 minutes. 5. Serve sauce over spaghetti.",
 				"rating": 4.5,
 				"favorite": false
 			},
@@ -376,7 +376,7 @@
 					"lemon",
 					"thyme"
 				],
-				"cooking_method": "1. Preheat oven to 400F. 2. Rinse chicken and pat dry. 3. Rub butter under the skin and all over the chicken. 4. Stuff the chicken with garlic, lemon, and thyme. 5. Roast for 1 hour or until fully cooked. 6. Let rest for 10 minutes before carving.",
+				"method": "1. Preheat oven to 400F. 2. Rinse chicken and pat dry. 3. Rub butter under the skin and all over the chicken. 4. Stuff the chicken with garlic, lemon, and thyme. 5. Roast for 1 hour or until fully cooked. 6. Let rest for 10 minutes before carving.",
 				"rating": 4.5,
 				"favorite": true
 			},
@@ -389,7 +389,7 @@
 					"soy sauce",
 					"rice"
 				],
-				"cooking_method": "1. Cook rice according to package directions. 2. Brown beef strips in a skillet. 3. Add sliced bell pepper and onion and cook until softened. 4. Add soy sauce and cook for 5 minutes. 5. Serve over rice.",
+				"method": "1. Cook rice according to package directions. 2. Brown beef strips in a skillet. 3. Add sliced bell pepper and onion and cook until softened. 4. Add soy sauce and cook for 5 minutes. 5. Serve over rice.",
 				"rating": 4.2,
 				"favorite": false
 			}
@@ -413,7 +413,7 @@
 					"onion",
 					"garlic"
 				],
-				"cooking_method": "1. Cook spaghetti according to package directions. 2. Brown ground beef in a skillet. 3. Add chopped onion and garlic and cook until softened. 4. Add canned tomatoes and cook for 10 minutes. 5. Serve sauce over spaghetti.",
+				"method": "1. Cook spaghetti according to package directions. 2. Brown ground beef in a skillet. 3. Add chopped onion and garlic and cook until softened. 4. Add canned tomatoes and cook for 10 minutes. 5. Serve sauce over spaghetti.",
 				"rating": 3.9,
 				"favorite": false
 			},
@@ -426,7 +426,7 @@
 					"lemon",
 					"thyme"
 				],
-				"cooking_method": "1. Preheat oven to 400F. 2. Rinse chicken and pat dry. 3. Rub butter under the skin and all over the chicken. 4. Stuff the chicken with garlic, lemon, and thyme. 5. Roast for 1 hour or until fully cooked. 6. Let rest for 10 minutes before carving.",
+				"method": "1. Preheat oven to 400F. 2. Rinse chicken and pat dry. 3. Rub butter under the skin and all over the chicken. 4. Stuff the chicken with garlic, lemon, and thyme. 5. Roast for 1 hour or until fully cooked. 6. Let rest for 10 minutes before carving.",
 				"rating": 5,
 				"favorite": true
 			},
@@ -439,7 +439,7 @@
 					"soy sauce",
 					"rice"
 				],
-				"cooking_method": "1. Cook rice according to package directions. 2. Brown beef strips in a skillet. 3. Add sliced bell pepper and onion and cook until softened. 4. Add soy sauce and cook for 5 minutes. 5. Serve over rice.",
+				"method": "1. Cook rice according to package directions. 2. Brown beef strips in a skillet. 3. Add sliced bell pepper and onion and cook until softened. 4. Add soy sauce and cook for 5 minutes. 5. Serve over rice.",
 				"rating": 4.2,
 				"favorite": false
 			}
