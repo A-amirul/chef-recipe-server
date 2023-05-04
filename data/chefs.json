@@ -59,51 +59,62 @@
 		"likes": 120,
 		"recipes": [
 			{
-				"name": "Spaghetti with Meatballs",
+				"name": "Classic Beef Stroganoff",
 				"ingredients": [
-					"1 pound spaghetti",
-					"1 pound ground beef",
-					"1/2 cup breadcrumbs",
-					"1/4 cup grated Parmesan cheese",
-					"1 egg, lightly beaten",
-					"1/4 cup chopped fresh parsley",
-					"2 cloves garlic, minced",
-					"1/2 teaspoon salt",
-					"1/4 teaspoon black pepper",
-					"1 jar (24 ounces) tomato sauce"
+					"1 lb beef sirloin, thinly sliced",
+					"1 onion, chopped",
+					"1 clove garlic, minced",
+					"1 cup sliced mushrooms",
+					"2 tbsp all-purpose flour",
+					"1 cup beef broth",
+					"1/2 cup sour cream",
+					"Salt and pepper to taste",
+					"8 oz egg noodles, cooked"
 				],
-				"cooking_method": "1. Cook spaghetti according to package instructions. \n2. In a large bowl, mix together ground beef, breadcrumbs, Parmesan cheese, egg, parsley, garlic, salt, and pepper. Form into balls. \n3. In a large skillet, heat olive oil over medium heat. Add meatballs and cook until browned on all sides. \n4. Add tomato sauce to the skillet and bring to a simmer. \n5. Serve meatballs and sauce over cooked spaghetti.",
+				"method": "In a large skillet, cook beef until browned. Remove beef and set aside. Add onion and garlic to skillet and cook until softened. Add mushrooms and cook until tender. Sprinkle flour over vegetables and stir to combine. Gradually add beef broth and bring to a simmer. Return beef to skillet and simmer until sauce thickens. Stir in sour cream and season with salt and pepper. Serve over cooked egg noodles.",
 				"rating": 4.5,
-				"favorite": true
+				"favorite": false
 			},
 			{
-				"name": "Roast Chicken",
+				"name": "Crispy Fried Chicken",
 				"ingredients": [
-					"whole chicken",
-					"butter",
-					"garlic",
-					"lemon",
-					"thyme"
+					"1 whole chicken, cut into pieces",
+					"2 cups buttermilk",
+					"1 tsp hot sauce",
+					"2 cups all-purpose flour",
+					"1 tbsp paprika",
+					"1 tbsp garlic powder",
+					"1 tbsp onion powder",
+					"1 tsp salt",
+					"1 tsp black pepper",
+					"Vegetable oil for frying"
 				],
-				"cooking_method": "1. Preheat oven to 400F. 2. Rinse chicken and pat dry. 3. Rub butter under the skin and all over the chicken. 4. Stuff the chicken with garlic, lemon, and thyme. 5. Roast for 1 hour or until fully cooked. 6. Let rest for 10 minutes before carving.",
+				"method": "In a large bowl, whisk together buttermilk and hot sauce. Add chicken pieces and stir to coat. Cover and refrigerate for at least 1 hour or overnight. In a shallow dish, whisk together flour, paprika, garlic powder, onion powder, salt, and pepper. Remove chicken from buttermilk and dredge in flour mixture, shaking off excess. In a large, deep skillet, heat about 1 inch of oil over medium-high heat. Fry chicken in batches until golden brown and cooked through, about 10-12 minutes per side. Drain on paper towels and serve.",
 				"rating": 4.8,
-				"favorite": true
+				"favorite": false
 			},
 			{
-				"name": "Beef Stir Fry",
+				"name": "Classic Meatloaf",
 				"ingredients": [
-					"beef strips",
-					"bell pepper",
-					"onion",
-					"soy sauce",
-					"rice"
+					"1 lb ground beef",
+					"1/2 cup breadcrumbs",
+					"1/2 onion, chopped",
+					"1/2 cup milk",
+					"1 egg",
+					"2 tbsp Worcestershire sauce",
+					"1 tbsp Dijon mustard",
+					"1 tsp garlic powder",
+					"1 tsp salt",
+					"1/2 tsp black pepper",
+					"1/2 cup ketchup"
 				],
-				"cooking_method": "1. Cook rice according to package directions. 2. Brown beef strips in a skillet. 3. Add sliced bell pepper and onion and cook until softened. 4. Add soy sauce and cook for 5 minutes. 5. Serve over rice.",
-				"rating": 4.2,
+				"method": "Preheat oven to 375°F. In a large bowl, mix together ground beef, breadcrumbs, onion, milk, egg, Worcestershire sauce, Dijon mustard, garlic powder, salt, and pepper until well combined. Transfer mixture to a greased loaf pan and spread ketchup over the top. Bake for 1 hour or until meatloaf is cooked through. Let cool for 5-10 minutes before slicing and serving.",
+				"rating": 4.3,
 				"favorite": false
 			}
 		]
 	},
+		
 	{
 		"id": 3,
 		"name": "Rony Jacs",
@@ -114,16 +125,57 @@
 		"likes": 150,
 		"recipes": [
 			{
-				"name": "Spaghetti Bolognese",
+				"name": "Classic Beef Stroganoff",
 				"ingredients": [
-					"spaghetti",
-					"ground beef",
-					"canned tomatoes",
-					"onion",
-					"garlic"
+					"1 lb beef sirloin, thinly sliced",
+					"1 onion, chopped",
+					"1 clove garlic, minced",
+					"1 cup sliced mushrooms",
+					"2 tbsp all-purpose flour",
+					"1 cup beef broth",
+					"1/2 cup sour cream",
+					"Salt and pepper to taste",
+					"8 oz egg noodles, cooked"
 				],
-				"cooking_method": "1. Cook spaghetti according to package directions. 2. Brown ground beef in a skillet. 3. Add chopped onion and garlic and cook until softened. 4. Add canned tomatoes and cook for 10 minutes. 5. Serve sauce over spaghetti.",
-				"rating": 3.5,
+				"method": "In a large skillet, cook beef until browned. Remove beef and set aside. Add onion and garlic to skillet and cook until softened. Add mushrooms and cook until tender. Sprinkle flour over vegetables and stir to combine. Gradually add beef broth and bring to a simmer. Return beef to skillet and simmer until sauce thickens. Stir in sour cream and season with salt and pepper. Serve over cooked egg noodles.",
+				"rating": 4.5,
+				"favorite": false
+			},
+			{
+				"name": "Crispy Fried Chicken",
+				"ingredients": [
+					"1 whole chicken, cut into pieces",
+					"2 cups buttermilk",
+					"1 tsp hot sauce",
+					"2 cups all-purpose flour",
+					"1 tbsp paprika",
+					"1 tbsp garlic powder",
+					"1 tbsp onion powder",
+					"1 tsp salt",
+					"1 tsp black pepper",
+					"Vegetable oil for frying"
+				],
+				"method": "In a large bowl, whisk together buttermilk and hot sauce. Add chicken pieces and stir to coat. Cover and refrigerate for at least 1 hour or overnight. In a shallow dish, whisk together flour, paprika, garlic powder, onion powder, salt, and pepper. Remove chicken from buttermilk and dredge in flour mixture, shaking off excess. In a large, deep skillet, heat about 1 inch of oil over medium-high heat. Fry chicken in batches until golden brown and cooked through, about 10-12 minutes per side. Drain on paper towels and serve.",
+				"rating": 4.8,
+				"favorite": false
+			},
+			{
+				"name": "Classic Meatloaf",
+				"ingredients": [
+					"1 lb ground beef",
+					"1/2 cup breadcrumbs",
+					"1/2 onion, chopped",
+					"1/2 cup milk",
+					"1 egg",
+					"2 tbsp Worcestershire sauce",
+					"1 tbsp Dijon mustard",
+					"1 tsp garlic powder",
+					"1 tsp salt",
+					"1/2 tsp black pepper",
+					"1/2 cup ketchup"
+				],
+				"method": "Preheat oven to 375°F. In a large bowl, mix together ground beef, breadcrumbs, onion, milk, egg, Worcestershire sauce, Dijon mustard, garlic powder, salt, and pepper until well combined. Transfer mixture to a greased loaf pan and spread ketchup over the top. Bake for 1 hour or until meatloaf is cooked through. Let cool for 5-10 minutes before slicing and serving.",
+				"rating": 4.3,
 				"favorite": false
 			},
 			{
@@ -163,6 +215,41 @@
 		"num_recipes": 7,
 		"likes": 60,
 		"recipes": [
+			{
+				"name": "Classic Beef Stroganoff",
+				"ingredients": [
+					"1 lb beef sirloin, thinly sliced",
+					"1 onion, chopped",
+					"1 clove garlic, minced",
+					"1 cup sliced mushrooms",
+					"2 tbsp all-purpose flour",
+					"1 cup beef broth",
+					"1/2 cup sour cream",
+					"Salt and pepper to taste",
+					"8 oz egg noodles, cooked"
+				],
+				"method": "In a large skillet, cook beef until browned. Remove beef and set aside. Add onion and garlic to skillet and cook until softened. Add mushrooms and cook until tender. Sprinkle flour over vegetables and stir to combine. Gradually add beef broth and bring to a simmer. Return beef to skillet and simmer until sauce thickens. Stir in sour cream and season with salt and pepper. Serve over cooked egg noodles.",
+				"rating": 4.5,
+				"favorite": false
+			},
+			{
+				"name": "Crispy Fried Chicken",
+				"ingredients": [
+					"1 whole chicken, cut into pieces",
+					"2 cups buttermilk",
+					"1 tsp hot sauce",
+					"2 cups all-purpose flour",
+					"1 tbsp paprika",
+					"1 tbsp garlic powder",
+					"1 tbsp onion powder",
+					"1 tsp salt",
+					"1 tsp black pepper",
+					"Vegetable oil for frying"
+				],
+				"method": "In a large bowl, whisk together buttermilk and hot sauce. Add chicken pieces and stir to coat. Cover and refrigerate for at least 1 hour or overnight. In a shallow dish, whisk together flour, paprika, garlic powder, onion powder, salt, and pepper. Remove chicken from buttermilk and dredge in flour mixture, shaking off excess. In a large, deep skillet, heat about 1 inch of oil over medium-high heat. Fry chicken in batches until golden brown and cooked through, about 10-12 minutes per side. Drain on paper towels and serve.",
+				"rating": 4.8,
+				"favorite": false
+			},
 			{
 				"name": "Spaghetti Bolognese",
 				"ingredients": [
@@ -213,6 +300,60 @@
 		"num_recipes": 8,
 		"likes": 70,
 		"recipes": [
+			{
+				"name": "Classic Beef Stroganoff",
+				"ingredients": [
+					"1 lb beef sirloin, thinly sliced",
+					"1 onion, chopped",
+					"1 clove garlic, minced",
+					"1 cup sliced mushrooms",
+					"2 tbsp all-purpose flour",
+					"1 cup beef broth",
+					"1/2 cup sour cream",
+					"Salt and pepper to taste",
+					"8 oz egg noodles, cooked"
+				],
+				"method": "In a large skillet, cook beef until browned. Remove beef and set aside. Add onion and garlic to skillet and cook until softened. Add mushrooms and cook until tender. Sprinkle flour over vegetables and stir to combine. Gradually add beef broth and bring to a simmer. Return beef to skillet and simmer until sauce thickens. Stir in sour cream and season with salt and pepper. Serve over cooked egg noodles.",
+				"rating": 4.5,
+				"favorite": false
+			},
+			{
+				"name": "Crispy Fried Chicken",
+				"ingredients": [
+					"1 whole chicken, cut into pieces",
+					"2 cups buttermilk",
+					"1 tsp hot sauce",
+					"2 cups all-purpose flour",
+					"1 tbsp paprika",
+					"1 tbsp garlic powder",
+					"1 tbsp onion powder",
+					"1 tsp salt",
+					"1 tsp black pepper",
+					"Vegetable oil for frying"
+				],
+				"method": "In a large bowl, whisk together buttermilk and hot sauce. Add chicken pieces and stir to coat. Cover and refrigerate for at least 1 hour or overnight. In a shallow dish, whisk together flour, paprika, garlic powder, onion powder, salt, and pepper. Remove chicken from buttermilk and dredge in flour mixture, shaking off excess. In a large, deep skillet, heat about 1 inch of oil over medium-high heat. Fry chicken in batches until golden brown and cooked through, about 10-12 minutes per side. Drain on paper towels and serve.",
+				"rating": 4.8,
+				"favorite": false
+			},
+			{
+				"name": "Classic Meatloaf",
+				"ingredients": [
+					"1 lb ground beef",
+					"1/2 cup breadcrumbs",
+					"1/2 onion, chopped",
+					"1/2 cup milk",
+					"1 egg",
+					"2 tbsp Worcestershire sauce",
+					"1 tbsp Dijon mustard",
+					"1 tsp garlic powder",
+					"1 tsp salt",
+					"1/2 tsp black pepper",
+					"1/2 cup ketchup"
+				],
+				"method": "Preheat oven to 375°F. In a large bowl, mix together ground beef, breadcrumbs, onion, milk, egg, Worcestershire sauce, Dijon mustard, garlic powder, salt, and pepper until well combined. Transfer mixture to a greased loaf pan and spread ketchup over the top. Bake for 1 hour or until meatloaf is cooked through. Let cool for 5-10 minutes before slicing and serving.",
+				"rating": 4.3,
+				"favorite": false
+			},
 			{
 				"name": "Spaghetti Bolognese",
 				"ingredients": [
