@@ -19,11 +19,13 @@ app.get('/chefs', (req, res) => {
 
 app.get('/chefs/:id', (req, res) => {
 	const id = req.params.id;
-	const selectedChefs =chefs.find(s => s.id == id)
+	const selectedChefs = chefs.find(s => s.id == id)
 	res.send(selectedChefs);
 })
 
 app.listen(port, () => {
 	console.log(`chefCorner is running on port:${port}`);
 })
+
+// index file updated
 
